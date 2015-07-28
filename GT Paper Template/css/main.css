@@ -181,7 +181,7 @@ header {
     margin: 10px 10px;
 }
 
-.author > .profile_picture {
+.author .profile_picture {
     display: inline-block;
     padding: 4px;
     margin-right: 5px;
@@ -199,7 +199,7 @@ header {
     color: #222;
 }
 
-.author .author_name, .author > .profile_picture {
+.author .author_name, .author .profile_picture {
     vertical-align: middle;
 }
 
