@@ -181,6 +181,7 @@ header {
     display: inline-block;
     width: 100%;
     text-align: center;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.2);
 }
 
 .authors > .author {
